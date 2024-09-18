@@ -8,5 +8,3 @@ Connect with Specter, your dedicated cybersecurity support robot designed by Def
 Connect to know more and stay tuned!
 specter@defhawk.com
 
-||||||||
-_5ourc3_
